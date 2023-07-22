@@ -1,4 +1,7 @@
-![MetaGate](https://metastorage.storage.iran.liara.space/metagate.svg)
+<div style="text-align: center;">
+<img src="https://metastorage.storage.iran.liara.space/metagate.svg" alt="MetaGate" width="50%">
+</div>
+
 # MetaGate | متا گیت
 
 پنل مدیریت و فروش متا گیت در راستای ایجاد بستری برای ارائه خدمات به فروش برای سرویس های دور زدن فیلتر ایجاد گردیده است
