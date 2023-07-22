@@ -1,6 +1,5 @@
-<div style="text-align: center;">
-    <img src="https://metastorage.storage.iran.liara.space/metagate.svg" alt="MetaGate" width="50%">
-</div>
+<img src="https://metastorage.storage.iran.liara.space/metagate.svg" alt="MetaGate" width="50%">
+
 
 # MetaGate | متا گیت
 
